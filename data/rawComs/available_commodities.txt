@@ -1,0 +1,1 @@
+['Gold', 'Copper', 'Silver', 'Palladium', 'Platinum', 'Aluminum', 'Zinc', 'Lead', 'Nickel', 'Tin', 'Copper', 'Xetra-Gold', 'MCX Aluminum Mini', 'MCX Aluminum', 'MCX Copper', 'MCX Copper Mini', 'MCX Gold 1 Kg', 'MCX Gold Guinea', 'MCX Gold Mini', 'MCX Gold Petal']
